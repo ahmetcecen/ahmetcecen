@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=ahmetcecen&color=red)
+
 ### Hi there 👋
 
 <!--
